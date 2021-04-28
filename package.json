@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "prettier": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarHug/practice.git"
+  },
+  "author": "VarHug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarHug/practice/issues"
+  },
+  "homepage": "https://github.com/VarHug/practice#readme"
+}
